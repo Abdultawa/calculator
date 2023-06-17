@@ -49,9 +49,3 @@ form input.operator{
     color: #33ffd8;
 }
 
-
-@media (max-width:900px) {
-    .container{
-        width: 100%;
-    }
-}
